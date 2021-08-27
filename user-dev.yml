@@ -1,8 +1,8 @@
 spring:
   application:
     name: user-service
-  profiles:
-    active: test
+#  profiles:
+#    active: test
 server:
   port: 9091
 eureka:
